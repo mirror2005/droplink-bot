@@ -18,6 +18,11 @@ Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key.
 * `API_HASH`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
 * `API_KEY`: Create [Droplink](https://droplink.co/ref/DAKSHYADAV) account then get this value from [Droplink API](https://droplink.co/ref/DAKSHYADAV).
 
+### Features Adeed After Modfying And Forking
+- fixed all errors
+- made heroku deployable [blocked by heroku sometimes but not now]
+- youtube tutorial added- 
+
 ### How to Use?
 
 * Star and Fork this repo.
@@ -32,3 +37,5 @@ Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key.
 
 * <a href="https://github.com/delivrance">Dan</a> for Pyrogram
 * <a href="https://github.com/Mahesh0253/GPlink-bot">Mahesh0253</a> for GPlink-bot.
+* <a href="https://t.me/jettastic">Jettastic</a> for fixing errors and bugs
+* <a href="https://t.me/jetbots">Jetbots</a> Channel
